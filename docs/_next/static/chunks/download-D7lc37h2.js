@@ -1,0 +1,1 @@
+var e=`0.1.7.02b`,t=`https://downloads.getfnwave.com/beta/0.1.7.02b/20261008-current/ReaHanson_0.1.7.02b_x64-setup.exe`;export{t as n,e as t};
